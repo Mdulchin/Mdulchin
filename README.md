@@ -4,11 +4,13 @@ I'm currently a software engineering student at Flatiron School, and am looking 
 
 # Projects: 
 
-# Reminiscent demo:
+
 
 # NYCleans demo: 
 
 ![NYCleansgif](https://user-images.githubusercontent.com/108838753/211165189-09c03276-20b4-4aad-a15f-f83b3d1e0155.gif)
+
+# Reminiscent demo:
 
 ![Reminiscentgif](https://user-images.githubusercontent.com/107277084/205724542-1975c237-223f-4910-8056-7bfa8309d1f5.gif)
 
