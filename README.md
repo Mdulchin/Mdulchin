@@ -4,7 +4,9 @@ I'm currently a software engineering student at Flatiron School, and am looking 
 
 # Projects: 
 
+# Colorskein Demo:
 
+[![Colorskein Demo Video](https://img.youtube.com/vi/IvZo3YYZD1I/0.jpg)](https://youtu.be/IvZo3YYZD1I)
 
 # NYCleans demo: 
 
