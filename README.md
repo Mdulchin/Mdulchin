@@ -1,6 +1,6 @@
 ### Hi there, I'm Madeline 👋
 
-I'm currently a software engineering student at Flatiron School, and am looking for a software engineering job!
+I'm a recently graduated student of the Flatiron School's software engeering program, and am currently on the job search!
 
 # Projects: 
 
